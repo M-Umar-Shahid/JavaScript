@@ -1,0 +1,11 @@
+let firstname="Umar Shahid";
+console.log(firstname[firstname.length-1]);
+let string="  Umar Shahid";
+console.log(string.length);
+let newString=string.trim();
+console.log(string);
+console.log(newString);
+console.log(string.toUpperCase());
+console.log(string.toLowerCase());
+console.log(string.trim().slice(2,7));
+console.log(string.trim().slice(4));
